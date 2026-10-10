@@ -1,0 +1,9 @@
+{
+  "name": "BOTT TELE FITUR LENGKAP BY VIRO",
+  "main": "bot.js",
+  "scripts": { "start": "node bot.js" },
+  "dependencies": {
+    "telegraf": "^4.15.0",
+    "express": "^4.18.2"
+  }
+}
